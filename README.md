@@ -2,12 +2,12 @@
 
 ## What is it?
 
-Gato (it's a brazilian name for cat) is a stupid alternative for cat linux command. It's based on coding challenge created by John Crickett (https://codingchallenges.fyi/challenges/challenge-cat).
+Gato (which is a Brazilian name for a cat) is an alternative to the "cat" Linux command. It was developed based on a coding challenge created by John Crickett (https://codingchallenges.fyi/challenges/challenge-cat).
 
 It's available for Mac, Linux or Windows
 ## How is it works?
 
-Gato provide a simple interface in order to display file contents. It can read directly from file or from stdin. For example: 
+Gato provides a simple interface for displaying file contents. It can read directly from a file or from stdin. For example:
 
 ```bash
   ./gato test1.txt (Directly from file)
@@ -27,7 +27,7 @@ To run tests, run the following command
   make test
 ```
 
-It will run all the test cases provided in the challenge
+It will execute all the test cases provided in the challenge.
 
 ## License
 
